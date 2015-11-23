@@ -1,5 +1,5 @@
 # Copyright (c) 2015, Jaesup Kwak veshboo@gmail.com
-# This software is released under the BSD License. See the COPYING file for
+# This software is released under the BSD License. See the LICENSE file for
 # more information.
 
 * Some sample input and output

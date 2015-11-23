@@ -11,7 +11,7 @@ before this program solve() with the rest of pieces.
 Of course, user can invoke solve() right away, without any placement.
 ---
 Copyright (c) 2015, Jaesup Kwak veshboo@gmail.com
-This software is released under the BSD License. See the COPYING file for
+This software is released under the BSD License. See the LICENSE file for
 more information.
 """
 
