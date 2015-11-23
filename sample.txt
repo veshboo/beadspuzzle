@@ -1,0 +1,81 @@
+# Copyright (c) 2015, Jaesup Kwak veshboo@gmail.com
+# This software is released under the BSD License. See the COPYING file for
+# more information.
+
+* Some sample input and output
+
+There can be many output per input.
+One of output (probably the first) is shown here.
+
+* 1
+(In)
+h
+hh
+-h-
+-h--
+-----
+------
+-------
+--------
+a-----f--
+aa----ffff
+(Out)
+h
+hh
+dhg
+dhgg
+ddgcc
+kkgccj
+kbbbbji
+kkejjjii
+aeeellfii
+aaelllffff
+
+* 2
+(In)
+i
+ii
+dii
+ddd-
+-----
+------
+-------
+--------
+---------
+bbbb------
+(Out)
+i
+ii
+dii
+dddg
+fgggg
+ffffll
+jcchlle
+jcchleee
+jjjhhkeka
+bbbbhkkkaa
+
+* 3
+(In)
+a
+aa
+---
+----
+-----
+------
+-------
+j---cc--
+j---cc---
+jjj-------
+(Out)
+a
+aa
+kke
+keee
+kkeii
+ffffii
+fbbbbig
+jdddccgg
+jdhhccgll
+jjjhhhglll
+
