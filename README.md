@@ -4,6 +4,8 @@ beadspuzzle
 Solution to my daughter's beads packing puzzle, [Goo-Seul] puzzle in Korean.
 Written for python 3.5
 
+![](beadspuzzle.jpg)
+
 It seems that finding all possible solutions needs
 very long time (NP-complete). Thus, let user place some pieces
 before this program solve() with the rest of pieces.
